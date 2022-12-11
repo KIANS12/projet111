@@ -1,0 +1,9 @@
+body{
+    background-image:linear-gradient(to right top, red, red, orange, orange, yellow);
+}
+.heading{
+    background-image: linear-gradient(to right top, blue,red);
+    color:white;
+    font-size: 40px;
+    font-family: monospace;
+}
